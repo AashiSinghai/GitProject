@@ -3,4 +3,9 @@ Code for new feature implementatin
 
 change for remote server push
 change is by team member local machine to remote repo
+
+
 change 3 - is made by team mate who has text release
+
+
+change 4 - for rebase check from local master
